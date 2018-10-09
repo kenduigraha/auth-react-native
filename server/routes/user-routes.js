@@ -1,8 +1,3 @@
-// const express = require('express')
-// const _ = require('lodash')
-// const config = require('../config.json')
-// const jwt = require('jsonwebtoken')
-
 import express from 'express'
 import _ from 'lodash'
 import config from '../config'
