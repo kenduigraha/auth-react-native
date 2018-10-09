@@ -1,11 +1,3 @@
-// const logger = require('morgan');
-// const cors = require('cors');
-// const http = require('http');
-// const express = require('express');
-// const errorhandler = require('errorhandler');
-// const dotenv = require('dotenv');
-// const bodyParser = require('body-parser');
-
 import logger from 'morgan'
 import cors from 'cors'
 import http from 'http'
